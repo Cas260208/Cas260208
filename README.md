@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola, soy Casandra Zetina Rdz ✌
 
 <!--
 **Cas260208/Cas260208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
