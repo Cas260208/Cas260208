@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <pag alinear = "centro">
-    <img src = "https://github.com/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Juegode la serpiente"/>
+    <img src = "https://github.com/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Juego de la serpiente"/>
 </pag>
