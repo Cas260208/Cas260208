@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 <h2> Acerca de mí</h2> <imagen origin="https://media0.giphy.com/media/KDDpcKigbffpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty$rid=giphy.gif" ancho=100 píxeles></h2> 
 - 🏬 Estudiante de la UAM Cuajimalpa
-- 🖼 Actualmente busco centrarme en FrontEnd 
+    
+- 🖼 Actualmente busco centrarme en FrontEnd
+  
 - 💁🏼‍♀️ Tengo 22 años 
     
 <pag alinear="centro">
