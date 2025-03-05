@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h2> Acerca de mí</h2> <imagen origin="https://media0.giphy.com/media/KDDpcKigbffpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty$rid=giphy.gif" ancho=100 píxeles></h2> 
+<br> </br>
 <pag alinear="centro">
     <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Juego de la serpiente"/>
 </pag>
