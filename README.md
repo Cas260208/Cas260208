@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h2> Acerca de mí</h2> <imagen origin="https://media0.giphy.com/media/KDDpcKigbffpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty$rid=giphy.gif" ancho=100 píxeles></h2> 
+<imagen ancho="55%" alinear="bien" alt="GitHub" origen="https://raw.githubusercontent.com/onimur/.github/master/.resourcer/git-header.svg"/>
 
 - 🏬 Estudiante de la UAM Cuajimalpa
     
